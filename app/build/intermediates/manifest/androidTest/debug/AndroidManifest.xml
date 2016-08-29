@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.com.ti.aricelio.libutils.test" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for br.com.ti.aricelio.libutils.test"
+        android:targetPackage="br.com.ti.aricelio.libutils.test" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_app"
+        android:label="LibUtils"
+        android:supportsRtl="true"
+        android:theme="@style/AlertDialog.AppCompat" >
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+</manifest>

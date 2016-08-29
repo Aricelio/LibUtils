@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/aricelio/AndroidStudioProjects/LibUtils/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_plus.png",
+        "source": "/home/aricelio/AndroidStudioProjects/LibUtils/app/src/main/res/mipmap-mdpi/ic_plus.png"
+    },
+    {
+        "merged": "/home/aricelio/AndroidStudioProjects/LibUtils/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/home/aricelio/AndroidStudioProjects/LibUtils/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/aricelio/AndroidStudioProjects/LibUtils/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_app.png",
+        "source": "/home/aricelio/AndroidStudioProjects/LibUtils/app/src/main/res/mipmap-mdpi/ic_app.png"
+    }
+]
